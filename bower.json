@@ -1,0 +1,22 @@
+{
+  "name": "FrontEndMaster",
+  "homepage": "https://github.com/EdenWoo/FrontEndMaster",
+  "authors": [
+    "EdenWoo <xiaoyumqyz@gmail.com>"
+  ],
+  "description": "A website to learn web site design.",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "jquery-ui": "^1.11.4"
+  }
+}
